@@ -12,7 +12,7 @@
 	<artifactId>busybreewebparent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<!-- if bug appears where the it says the jar packaging is unaccepted and needs pom packaging just copy and paste pom package code and save -->
+	<!-- if pom packaging bug appears reload project -->
 	<name>busybreewebparent</name>
 	<description></description>
 	<properties>
